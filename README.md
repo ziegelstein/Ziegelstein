@@ -1,4 +1,4 @@
-<h2 align="left">Heyya 👋! My name is Ziegel and I'm human from Germany</h2>
+<h2 align="left">Heyya 👋! My name is Ziegel and I'm a human from Germany</h2>
 
 ###
 
